@@ -39,7 +39,13 @@ We apply both strategies to a portfolio of four tech and media stocks (AAPL, AMZ
 ---
 
 ## In-Sample Results (2015–2025)
+[Dendogram](plot/dendogram.png)
 
+[HRP Cumulative Returns](plot/hrp_cum.png)
+
+[MVO HRP Cumulative Returns](plot/mvo_hrp_cum.png)
+
+[Metric MVO HRP](plot/metrics.png)
 
 | Metric                | MVO        | HRP        |
 |-----------------------|------------|------------|
@@ -71,6 +77,7 @@ Despite the strong performance of MVO in this specific dataset, real-world inves
 ---
 
 ## Portfolio Weights Snapshot
+[Weights MVO HRP](plot/weights_mvo_hrp.png)
 
 | Asset | MVO Weight | HRP Weight |
 |-------|------------|------------|
@@ -95,9 +102,8 @@ While MVO appears superior **on paper** for this dataset, it's **more vulnerable
 
 ## Files Included
 
-- `hrp_optimised.ipynb` — Implementation notebook  
-- `data/` — Historical prices  
-- `plots/` — Performance and weight visuals  
+- `hrp_optimised.ipynb` — Implementation notebook   
+- `plot/` — Performance and weight visuals  
 - `README_hrp_optimised.md` — This file
 
 
