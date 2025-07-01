@@ -109,4 +109,4 @@ While MVO appears superior **on paper** for this dataset, it's **more vulnerable
 
 ## ⏭️ What's Next?
 
-See [HRP MVO OUT OF SAMPLE`](README.md) to evaluate how these models behave on **future (unseen) data**.
+See [HRP MVO OUT OF SAMPLE`]([nik7ila/README.md](https://github.com/nik7ila/hrp_mvo_out_of_sample/blob/main/README.md)) to evaluate how these models behave on **future (unseen) data**.
